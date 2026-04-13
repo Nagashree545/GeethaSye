@@ -18,34 +18,12 @@ const awards = [
     achievement:
       'Winner of prestigious dance reality show showcasing exceptional talent',
   },
+ 
+  ,
   {
     id: 3,
-    name: 'kfi Recognition',
-    year: 2022,
-    category: 'Female Choreographer Excellence',
-    achievement:
-      'Only female dance choreographer recognized in the entire kfi',
-  },
-  {
-    id: 4,
-    name: 'Film Industry Excellence',
-    year: 2021,
-    category: 'Artistic Contribution',
-    achievement:
-      'Recognition for artistic value and innovative choreography across 30+ films',
-  },
-  {
-    id: 5,
-    name: 'Dance Direction Innovation',
-    year: 2020,
-    category: 'Creative Excellence',
-    achievement:
-      'Acknowledged for bringing fresh and innovative perspectives',
-  },
-  {
-    id: 6,
     name: 'Industry Milestone',
-    year: 2019,
+    year: 2004,
     category: 'Career Achievement',
     achievement:
       'Completed 35+ feature films as lead choreographer',
