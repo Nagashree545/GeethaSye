@@ -14,7 +14,7 @@ export const About = () => {
             </p>
 
             <p className={styles.bioText}>
-              She is also the Star Suvarna - Sye to Dance reality show winner and the only female dance choreographer in the entire KFL. Her innovative choreography makes her stand out.
+              She is also the Star Suvarna - Sye to Dance reality show winner and the only female dance choreographer in the entire kfi. Her innovative choreography makes her stand out.
             </p>
 
             <div className={styles.highlights}>
@@ -57,10 +57,10 @@ export const About = () => {
             <div className={styles.achievement}>
               <span className={styles.achievementBadge}>INDUSTRY</span>
               <div className={styles.achievementTitle}>
-                Only Female Dance Choreographer in KFL
+                Only Female Dance Choreographer in kfi
               </div>
               <div className={styles.achievementDesc}>
-                Unique position as the sole female choreographer in KFL
+                Unique position as the sole female choreographer in kfi
               </div>
             </div>
 

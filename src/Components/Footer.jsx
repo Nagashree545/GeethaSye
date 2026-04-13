@@ -50,7 +50,7 @@ export const Footer = () => {
             <h3 className={styles.sectionTitle}>Recognition</h3>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
               <span className={styles.badge}>Chitara Awards 2025</span>
-              <span className={styles.badge}>KFL Recognized</span>
+              <span className={styles.badge}>kfi Recognized</span>
               <span className={styles.badge}>35+ Films</span>
             </div>
           </div>

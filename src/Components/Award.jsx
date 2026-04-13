@@ -20,11 +20,11 @@ const awards = [
   },
   {
     id: 3,
-    name: 'KFL Recognition',
+    name: 'kfi Recognition',
     year: 2022,
     category: 'Female Choreographer Excellence',
     achievement:
-      'Only female dance choreographer recognized in the entire KFL',
+      'Only female dance choreographer recognized in the entire kfi',
   },
   {
     id: 4,
